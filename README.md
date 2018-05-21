@@ -1,0 +1,1 @@
+# git_maven_multi_mod
