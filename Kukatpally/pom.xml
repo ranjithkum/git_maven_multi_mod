@@ -4,12 +4,12 @@
   <parent>
     <artifactId>D-Mart</artifactId>
     <groupId>com.supermarket</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
   </parent>
 
   <groupId>com.supermarket</groupId>
   <artifactId>Kukatpally</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>war</packaging>
 
   <name>Kukatpally Maven Webapp</name>
