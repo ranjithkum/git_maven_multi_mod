@@ -11,11 +11,13 @@
     <module>Kukatpally</module>
   </modules>
   <build>
+  <plugins>
   <plugin>
   <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-release-plugin</artifactId>
         <version>2.5.3</version>
   </plugin>
+  </plugins>
   </build>
   <scm>
     <developerConnection>scm:git:https://github.com/ranjithkum/git_maven_multi_mod.git</developerConnection>
